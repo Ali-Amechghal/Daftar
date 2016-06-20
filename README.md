@@ -11,7 +11,9 @@ clone or download the repository
 run  : npm install; npm start
 
 ## Developing
-
+ NodeJs  
+ ExpressJS
+ Mongoose
 
 
 ### Tools
