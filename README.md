@@ -1,8 +1,8 @@
 
 
-# MeinKampf
+# Solver
 
-Mean Stack Application that will help to save and get back your notes ,and solution aleardy used in previous projects, it kind of knowledge database
+Mean Stack Application that will help to save and get back your notes ,and solution aleardy used in previous projects, it's kind of knowledge database
 
 ## Usage
 
